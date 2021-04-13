@@ -10,3 +10,5 @@ Transfer Learning: https://pytorch.org/tutorials/beginner/transfer_learning_tuto
 
 Pruning: https://pytorch.org/tutorials/intermediate/pruning_tutorial.html 
 
+
+Dataset used for audio models: https://urbansounddataset.weebly.com/urbansound8k.html
