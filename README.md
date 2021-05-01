@@ -1,4 +1,7 @@
 # graceful_degradation
+
+Link to YT video going over the demo notebook: https://youtu.be/NoV8i8zvGi8
+
 Experiments to understand degradation in neural networks 
 
 Dataset used for image models: https://www.kaggle.com/ajayrana/hymenoptera-data 
@@ -12,3 +15,5 @@ Pruning: https://pytorch.org/tutorials/intermediate/pruning_tutorial.html
 
 
 Dataset used for audio models: https://urbansounddataset.weebly.com/urbansound8k.html
+
+
