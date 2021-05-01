@@ -1,6 +1,6 @@
 # graceful_degradation
 
-Link to YT video going over the demo notebook: https://youtu.be/NoV8i8zvGi8
+Link to YouTube video going over the demo notebook: https://youtu.be/NoV8i8zvGi8
 
 Experiments to understand degradation in neural networks 
 
