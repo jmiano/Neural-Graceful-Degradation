@@ -1,4 +1,5 @@
-# graceful_degradation
+# Understanding Graceful Degradation Through The Parallel Distributed Processing Framework
+Authors: Shalini Chaudhuri, Joseph Miano, Santyblesson Pushparaj, Sreehari Sreejith
 
 Link to YouTube video going over the demo notebook: https://youtu.be/NoV8i8zvGi8
 
