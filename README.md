@@ -1,6 +1,7 @@
-# Understanding Graceful Degradation Through The Parallel Distributed Processing Framework
+# Graceful Degradation
 Authors: Shalini Chaudhuri, Joseph Miano, Santyblesson Pushparaj, Sreehari Sreejith
 
+## Notes
 Link to YouTube video going over the demo notebook: https://youtu.be/NoV8i8zvGi8
 
 Experiments to understand degradation in neural networks 
